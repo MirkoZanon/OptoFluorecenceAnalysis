@@ -9,4 +9,6 @@ The program is specifically written to handle .tif and .xml files from Prairie V
 
 CITATION
 
-This 
+Please note that GeNEsIS is based on a publication. If you use it successfully for your research please be so kind to cite our work:
+
+All-optical manipulation of the Drosophila olfactory system, Zanon M. et al., https://doi.org/10.1101/2022.02.08.479558 BioRxiv (2022)
